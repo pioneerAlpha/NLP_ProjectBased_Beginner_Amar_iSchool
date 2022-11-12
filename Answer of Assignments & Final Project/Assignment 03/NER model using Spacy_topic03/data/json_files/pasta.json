@@ -1,0 +1,1 @@
+{"classes":["FOOD","PEOPLE","ORG","MONEY","DATE"],"annotations":[["He eats pasta. She loves salad.",{"entities":[[8,14,"FOOD"],[25,30,"FOOD"]]}]]}
