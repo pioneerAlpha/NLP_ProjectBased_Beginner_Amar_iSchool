@@ -1,1 +1,3 @@
 # NLP_ProjectBased_Beginner_Amar_iSchool
+
+Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software. This includes both algorithms that take human-produced text as input and algorithms that produce natural-looking text as outputs. Statistical NLP is now strongly focused on the use of artificial intelligence to both perform inference on specific tasks and develop robust end-to-end systems. By the end of the course, one will learn the use of NLP on different end-to-end systems like a chatbot, recommender system, detection model, speech emotion recognizer, etc.
